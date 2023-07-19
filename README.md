@@ -1,7 +1,7 @@
 ## Olá!! Eu sou Ian Uchôa
 
 - ☕ Atualmente estou aprendendo Java
-- ☕ Future Java Backend Developer
+- 👨🏾‍💻 Future Software Developer with Java
 - 🎓 Graduating in Computer Science from FACAPE
  
 <a href="https://github.com/ErickssonUchoa/github-readme-stats">
