@@ -20,9 +20,9 @@
    <img align="center" alt="Ian-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div><br><br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ErickssonUchoa/Projeto-DoctorCare">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickssonUchoa&repo=Projeto-DoctorCare&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/ErickssonUchoa/Java-Worker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickssonUchoa&repo=Java-Worker&theme=tokyonight" />
 </a>
