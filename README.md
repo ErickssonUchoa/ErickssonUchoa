@@ -4,10 +4,10 @@
 - 👨🏾‍💻 Future Software Developer with Java
 - 🎓 Graduating in Computer Science from FACAPE
  
-<a href="https://github.com/ErickssonUchoa/github-readme-stats">
+<a href="https://github.com/ErickssonUchoa/Curso-Java">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ErickssonUchoa&theme=tokyonight" />
 </a>
-<a href="https://github.com/ErickssonUchoa/github-readme-stats">
+<a href="https://github.com/ErickssonUchoa/Curso-Java">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ErickssonUchoa&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a><br>
 
