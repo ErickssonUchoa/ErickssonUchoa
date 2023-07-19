@@ -5,7 +5,7 @@
 - 🎓 Graduating in Computer Science from FACAPE
  
 <a href="https://github.com/ErickssonUchoa">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ErickssonUchoa&theme=tokyonight" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ErickssonUchoa&theme=tokyonight&show_icons=true" />
 </a>
 <a href="https://github.com/ErickssonUchoa?tab=repositories">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ErickssonUchoa&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
