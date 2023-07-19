@@ -4,10 +4,10 @@
 - 🎓 Graduating in Computer Science from FACAPE
  
 <a href="https://github.com/ErickssonUchoa/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ErickssonUchoa&theme=tokyonight" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ErickssonUchoa&theme=tokyonight" />
 </a>
 <a href="https://github.com/ErickssonUchoa/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ErickssonUchoa&hide_progress=true&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ErickssonUchoa&hide_progress=true&langs_count=8&card_width=320&theme=tokyonight" />
 </a><br>
 
  <div style="display: inline_block"><br>
