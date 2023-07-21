@@ -1,4 +1,4 @@
-## Olá!! Eu sou Ian Uchôa
+## Olá!! Eu sou Ian Uchôa 👋🏾👋🏾
 
 - ☕ Atualmente estou aprendendo Java
 - 👨🏾‍💻 Future Software Developer with Java
