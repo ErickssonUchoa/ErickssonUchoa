@@ -24,6 +24,6 @@
 <a href="https://github.com/ErickssonUchoa/Projeto-DoctorCare">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickssonUchoa&repo=Projeto-DoctorCare&theme=tokyonight" />
 </a>
-<a href="https://github.com/ErickssonUchoa/Java-Worker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickssonUchoa&repo=Java-Worker&theme=tokyonight" />
+<a href="https://github.com/ErickssonUchoa/exercice-lambda-java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickssonUchoa&repo=exercice-lambda-java&theme=tokyonight" />
 </a>
