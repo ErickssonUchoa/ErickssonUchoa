@@ -1,6 +1,7 @@
 ## Olá!! Eu sou Ian Uchôa 👋🏾👋🏾
 
-- ☕ Atualmente estou aprendendo Java
+- ☕ Java
+- 🐍 Python
 - 👨🏾‍💻 Futuro desenvolvedor de software
 - 🎓 Graduando em Ciência da Computação pela FACAPE
  
